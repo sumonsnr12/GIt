@@ -23,7 +23,8 @@ int main(){
     {
         cout<<arr[i]<<endl;
     }
-    
+
+    Return 0;
     
     
 }
